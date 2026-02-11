@@ -40,7 +40,7 @@ const split="bishal-basu-bora"
 console.log(split.split('-'));
 
 
-
+console.log("Name");
 
 
 
